@@ -1,14 +1,14 @@
-# 💸 App de Organização de Finanças Pessoais com Vibe Coding
+# 🫠 App de Organização de Finanças Pessoais com Vibe Coding
 
 Aprenda a **criar soluções com IA** de forma criativa, guiando ferramentas como o **Copilot** e o **Lovable** com uma comunicação simples e natural. O foco é desenvolver o conceito de um **App de Organização de Finanças Pessoais**, mas, acima de tudo, aprender o **jeito Vibe de programar com IA**.
 
-## ✨ O que é Vibe Coding
+## 😊 O que é Vibe Coding
 
 **Vibe Coding** é uma forma leve e criativa de desenvolver com IA, baseada em **conversas naturais e bem estruturadas**. Você não precisa escrever código linha por linha. Em vez disso, aprende a **guiar a IA** descrevendo suas ideias de forma clara, com **intenção e contexto**. Em outras palavras:
 
 > Você mostra a vibe da sua ideia e a IA transforma em solução (ou em um caminho para ela).
 
-## 🎯 Desafio
+## 🙃 Desafio
 
 Problema: Muitas pessoas não conseguem manter um controle financeiro porque os aplicativos exigem muita entrada de dados manual, e a criação de orçamentos é vista como algo tedioso. 
 
@@ -43,6 +43,7 @@ Pessoas que querem começar a organizar suas finanças de forma prática e sem c
 3. Definir e acompanhar metas financeiras.  
 4. Receber dicas de economia do “Agente Financeiro”.  
 5. Visualizar relatórios simples e personalizados.
+6. No relatório, os valores de gastos supérfluos deverão aparecer em negrito e em vermelho, os gastos fxos em azul, e os gastos com comida em verde.
 
 # Entregável da IA
 Gerar um plano de MVP com as principais telas, recursos necessários e um esboço de validação inicial.  
