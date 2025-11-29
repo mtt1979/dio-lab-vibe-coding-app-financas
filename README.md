@@ -1,4 +1,4 @@
-# 🫠 App de Organização de Finanças Pessoais com Vibe Coding
+# 🫠 App de Easy de Finanças Pessoais com Vibe Coding
 
 Aprenda a **criar soluções com IA** de forma criativa, guiando ferramentas como o **Copilot** e o **Lovable** com uma comunicação simples e natural. O foco é desenvolver o conceito de um **App de Organização de Finanças Pessoais**, mas, acima de tudo, aprender o **jeito Vibe de programar com IA**.
 
@@ -74,13 +74,116 @@ Durante essa etapa, você pode orientar a IA para três entregas principais:
 Finalize seu projeto criando um **repositório no GitHub** (pode ser um **fork** deste).  
 No README do seu repositório, inclua:
 
-- Seu **prompt final** (PRD);  
-- Prints ou pequenos vídeos das interações com a IA;  
-- Um resumo do que o seu **App de Finanças Pessoais** faz;  
+- Seu **prompt final** (PRD);
+
+- PRD refinado pelo COPILOT
+# PRD – Aplicativo de Organização de Finanças Pessoais Conversacional
+
+## 1. Contexto
+O aplicativo será uma ferramenta de organização financeira pessoal baseada em conversas.  
+A proposta é substituir formulários e planilhas complexas por uma interação natural em linguagem simples, permitindo que o usuário registre e acompanhe suas finanças de forma prática e intuitiva.
+
+## 2. Problema
+- Usuários desistem de controlar seus gastos porque os apps atuais exigem entrada manual excessiva.  
+- Falta de personalização e de recomendações úteis.  
+- O processo acaba sendo burocrático e pouco motivador.  
+
+O objetivo é oferecer uma experiência fluida e personalizada, com conversas inteligentes e dicas automáticas de economia.
+
+## 3. Público-Alvo
+- Pessoas que desejam começar a organizar suas finanças sem complicação.  
+- Principalmente iniciantes que não têm familiaridade com planilhas ou apps tradicionais.  
+- Deve atender ao máximo de perfis possíveis, garantindo acessibilidade e usabilidade para diferentes idades, níveis de letramento digital e necessidades especiais (design universal).
+
+## 4. Funcionalidades-Chave
+1. Registro de gastos via chat em linguagem natural.  
+2. Classificação automática das transações (supérfluos, fixos, alimentação etc.).  
+3. Definição e acompanhamento de metas financeiras.  
+4. Agente Financeiro que envia dicas de economia personalizadas.  
+5. Relatórios simples e personalizados, com destaque visual:  
+   - Gastos supérfluos → negrito e vermelho  
+   - Gastos fixos → azul  
+   - Gastos com comida → verde  
+6. Design universal: interface e experiência pensadas para serem inclusivas, acessíveis e agradáveis para o maior número possível de usuários.
+
+## 5. Entregável da IA (MVP)
+- Principais telas:  
+  - Tela de chat (registro de gastos e interação com o agente).  
+  - Tela de metas financeiras.  
+  - Tela de relatórios com cores e destaques.  
+- Recursos necessários:  
+  - Processamento de linguagem natural (para entender os gastos).  
+  - Algoritmo de categorização automática.  
+  - Sistema de notificações e dicas.  
+  - Diretrizes de acessibilidade (contraste, fontes legíveis, navegação simples).  
+- Validação inicial:  
+  - Testar com um grupo diverso de usuários (diferentes idades, níveis de experiência digital).  
+  - Avaliar se conseguem registrar gastos sem esforço.  
+  - Medir engajamento com as dicas do agente.
+ 
+  - interacoes com o LOVABLE
+ 
+  - Crie um app de finanças pessoais, com base no seguinte PRD (Product Requirements Document).
+  - Crie relatorio com graficos
+
+- Prints ou pequenos vídeos das interações com a IA;
+
+- <img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/4e1483ab-dc35-4e34-814b-8b9db40a25ca" />
+
+- <img width="1366" height="738" alt="image" src="https://github.com/user-attachments/assets/6860e4b7-f319-4a0a-b15e-12eff540b653" />
+
+
+- Um resumo do que o seu **App de Finanças Pessoais** faz;
+
+# Resumo do Aplicativo de Finanças Pessoais Conversacional
+
+## Objetivo
+Criar um aplicativo que ajude pessoas a organizar suas finanças pessoais de forma simples e acessível, substituindo planilhas e formulários complexos por uma experiência de **conversa natural** com o usuário.
+
+## Problema que resolve
+- Apps atuais exigem muita entrada manual e pouca personalização.  
+- Usuários acabam desistindo do controle financeiro por acharem o processo burocrático e pouco motivador.  
+- O app busca tornar o processo **fluido, personalizado e educativo**.
+
+## Público-Alvo
+- Pessoas iniciantes no controle financeiro.  
+- Usuários que querem praticidade sem complicação.  
+- Projeto pensado com **design universal**, para garantir acessibilidade e boa experiência para o maior número possível de perfis (diferentes idades, níveis de letramento digital e necessidades especiais).
+
+## Funcionalidades principais
+1. Registro de gastos via chat em linguagem natural.  
+2. Classificação automática das transações (supérfluos, fixos, alimentação).  
+3. Definição e acompanhamento de metas financeiras.  
+4. Agente Financeiro que envia dicas automáticas e personalizadas de economia.  
+5. Relatórios simples e visuais, com destaques:  
+   - Supérfluos → negrito e vermelho  
+   - Fixos → azul  
+   - Comida → verde  
+6. Design universal: interface inclusiva, acessível e intuitiva.
+
+## MVP (Produto Mínimo Viável)
+- **Telas principais**:  
+  - Chat para registro e interação.  
+  - Metas financeiras.  
+  - Relatórios com cores e destaques.  
+- **Recursos necessários**:  
+  - Processamento de linguagem natural.  
+  - Algoritmo de categorização automática.  
+  - Sistema de notificações e dicas.  
+  - Diretrizes de acessibilidade (contraste, fontes legíveis, navegação simples).  
+- **Validação inicial**:  
+  - Testes com grupo diverso de usuários.  
+  - Avaliar facilidade de registro e engajamento com dicas.
+
 - Uma breve **reflexão sobre o processo**:
-  - O que funcionou bem?  
-  - O que não funcionou como o esperado?  
+  - O que funcionou bem?
+  - O refinamento feito no copilot ajudou muito, pois os creditos do lovable acabou em apenas 2 interações.
+    
+  - O que não funcionou como o esperado?
+  - Esperava interagir gratuitamente mais vezes no lovable, mas as interações feitas ja ajudou bastante para aprender sobre vibe coding.
+    
   - O que aprendeu sobre conversar com IAs?
+  - E como conversar com uma pessoa, sempre com bastante detalhes e inormações.
 
 > [!TIP]
 > Publique seu repositório e compartilhe o link na plataforma da DIO! Sua entrega é a prova de que você domina o raciocínio de Vibe Coding, mesmo sem escrever uma única linha de código.
